@@ -82,9 +82,7 @@ Desenvolvedor Full Stack com foco em sistemas robustos, escaláveis e de impacto
 
 <div align="center">
 
-![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuiKadz&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiKadz&layout=compact&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GuiKadz&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
 
 </div>
 
