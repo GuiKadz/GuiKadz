@@ -36,6 +36,13 @@ Desenvolvedor Full Stack com foco em sistemas robustos, escaláveis e de impacto
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
+**Python & IA**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
 **Banco de Dados**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -62,7 +69,7 @@ Desenvolvedor Full Stack com foco em sistemas robustos, escaláveis e de impacto
 
 **Sistema ELLAS** — Plataforma de Armazenamento e Compartilhamento de Dados sobre Violência Doméstica
 > Sistema desenvolvido em parceria com a Comissão Regional de Enfrentamento às Violências da Comarca de União da Vitória e validado por instituições como MPPR, OAB, Polícia Civil e Defensoria Pública. Projeto de Iniciação Científica apresentado no Ficiências 2024.
-> `Stack: Python · Análise de Dados · Sistemas de Informação`
+> `Stack: NestJS · React · PostgreSQL · Prisma · Docker`
 
 ---
 
@@ -83,6 +90,7 @@ Desenvolvedor Full Stack com foco em sistemas robustos, escaláveis e de impacto
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GuiKadz&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
+
 </div>
 
 ---
